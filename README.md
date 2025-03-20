@@ -20,7 +20,7 @@ NoTraceEdit - утилита, позволяющая редактировать 
 
 ### Работает по следующей технологии:
 
-[![](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DykEcPWqsMBk&width=320&height=180&filetype=png)](https://youtu.be/kEcPWqsMBk)
+[![](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DykEcPWqsMBk&width=320&height=180&filetype=png)](https://www.youtube.com/watch?v=ykEcPWqsMBk)
 
 ## Основные возможности
 
