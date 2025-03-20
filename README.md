@@ -47,7 +47,7 @@ NoTraceEdit - утилита, позволяющая редактировать 
 1. Скачайте репозиторий или клонируйте его:
    ```bash
    git clone https://github.com/ACCIDENTPROJECT/NoTraceEdit.git
-   cd notraceedit
+   cd NoTraceEdit
    ```
 
 2. Установите необходимые зависимости:
